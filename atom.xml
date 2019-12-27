@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://haxine.github.io</id>
-    <title>5G时代，智能精准获客方案探析</title>
-    <updated>2019-12-27T13:09:30.963Z</updated>
+    <title>5G时代智能精准获客方案探析</title>
+    <updated>2019-12-27T15:34:16.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://haxine.github.io"/>
     <link rel="self" href="https://haxine.github.io/atom.xml"/>
     <subtitle>三人行，必有我师焉。</subtitle>
     <logo>https://haxine.github.io/images/avatar.png</logo>
     <icon>https://haxine.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, 5G时代，智能精准获客方案探析</rights>
+    <rights>All rights reserved 2019, 5G时代智能精准获客方案探析</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://haxine.github.io/post/hello-gridea</id>
