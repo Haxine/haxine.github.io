@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://haxine.github.io</id>
     <title>5G时代智能精准获客方案探析</title>
-    <updated>2020-01-05T09:42:46.223Z</updated>
+    <updated>2020-01-05T10:09:13.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://haxine.github.io"/>
     <link rel="self" href="https://haxine.github.io/atom.xml"/>
@@ -17,7 +17,8 @@
         </link>
         <updated>2020-01-05T09:20:10.000Z</updated>
         <content type="html"><![CDATA[<pre><code>  有幸在某某大数据应用公司任职三年，由浅入深地接触DSP精准获客业务，行业解决方案以及与新零售市场形态的结合应用。5G时代来临，精准获客有哪些变化，有哪些途径和手段，可以借助哪些工具等等，后续将逐步展开阐述我个人的一些感想和看法，与大家共同讨论。今天首先介绍DSP平台精准获客解决方案。
-  http://www.yihui-life.com/1.png
+  &lt;img src = &quot;http://www.yihui-life.com/1.png&quot;&gt;
+  ![竞价历程](http://www.yihui-life.com/1.png)
 </code></pre>
 ]]></content>
     </entry>
